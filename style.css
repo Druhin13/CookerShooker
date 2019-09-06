@@ -10,6 +10,7 @@
 }
 
 .nav {
+    text-align: center;
     position: absolute;
     top: 0;
     width: 100%;
@@ -20,6 +21,10 @@
 
 .nav ul {
     visibility: hidden;
+}
+
+.open_menu{
+    margin: 2vh;
 }
 
 .close_menu {
