@@ -20,35 +20,35 @@
 
 .logo {
     position: absolute;
-    top: 5vh;
+    top: 10vh;
 }
 
 .fast_food {
     position: absolute;
-    top: 5vh;
+    top: 28vh;
 }
 
 .todays_menu {
     position: absolute;
-    top: 5vh;
+    top: 28vh;
 }
 
 .videos {
     position: absolute;
-    top: 5vh;
+    top: 28vh;
 }
 
 .out_of_the_box {
     position: absolute;
-    top: 5vh;
+    top: 50vh;
 }
 
 .special_menu {
     position: absolute;
-    top: 5vh;
+    top: 50vh;
 }
 
 .contests {
     position: absolute;
-    top: 5vh;
+    top: 50vh;
 }
