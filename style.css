@@ -18,6 +18,14 @@
     z-index: 100;
 }
 
+.nav ul {
+    visibility: hidden;
+}
+
+.close_menu {
+    visibility: hidden;
+}
+
 .logo {
     position: absolute;
     top: 10vh;
