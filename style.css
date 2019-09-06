@@ -43,3 +43,19 @@
     top: 25vh;
     text-align: center;
 }
+
+.copyright{
+    margin-top: 10%;
+    text-align: center;
+}
+
+.copyright h1 {
+    font-family: Montserrat;
+    font-size: 26px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.23;
+    letter-spacing: normal;
+    color: bcbcbc;
+}
