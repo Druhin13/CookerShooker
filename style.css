@@ -1,40 +1,48 @@
-<!DOCTYPE html>
-<html lang="en">
+* {
+    margin: 0;
+    padding: 0;
+}
 
-<head>
-    <meta charset="UTF-8">
-    <title>CookerShooker - Cool It's Easy</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+.bg {
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(#4D4C4C, #000000);
+}
 
-<body>
-    <div class="bg"></div>
-    <div class="nav">
-        <img class="open_menu" src="assets/arrow.png">
-        <img class="close_menu" src="assets/cross.png">
-        <ul>
-            <li>Home</li>
-            <li>About</li>
-            <li>Contact</li>
-            <li>Contests</li>
-        </ul>
-    </div>
+.nav {
+    text-align: center;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 5vh;
+    background-color: #2A2A2A;
+    z-index: 100;
+    box-shadow: 0 5px 20px 0 #00000029;
+}
 
-    <div class="logo_container">
-        <img class="logo" src="assets/full%20logo.png">
-    </div>
+.nav ul {
+    visibility: hidden;
+}
 
-    <div class="panel">
-        <img class="fast_food" src="assets/fast%20food%20box.png">
+.open_menu {
+    margin: 2vh;
+}
 
-        <img class="todays_menu" src="assets/todays%20menu%20box.png">
+.close_menu {
+    visibility: hidden;
+}
 
-        <img class="videos" src="assets/videos%20box.png">
 
-        <img class="out_of_the_box" src="assets/out%20of%20the%20box%20box.png">
+.panel {
+    width: 100%;
+    position: absolute;
+    top: 20vh;
+    text-align: center;
+}
 
-        <img class="special_menu" src="assets/special%20menu%20box.png">
-
-        <img class="contests" src="assets/contests%20box.png">
-    </div>
-</body></html>
+.logo_container{
+    width: 100%;
+    position: absolute;
+    top: 10vh;
+    text-align: center;
+}
