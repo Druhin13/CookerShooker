@@ -15,4 +15,40 @@
     width: 100%;
     height: 5vh;
     background-color: #2A2A2A;
+    z-index: 100;
+}
+
+.logo {
+    position: absolute;
+    top: 5vh;
+}
+
+.fast_food {
+    position: absolute;
+    top: 5vh;
+}
+
+.todays_menu {
+    position: absolute;
+    top: 5vh;
+}
+
+.videos {
+    position: absolute;
+    top: 5vh;
+}
+
+.out_of_the_box {
+    position: absolute;
+    top: 5vh;
+}
+
+.special_menu {
+    position: absolute;
+    top: 5vh;
+}
+
+.contests {
+    position: absolute;
+    top: 5vh;
 }
