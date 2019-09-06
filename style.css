@@ -31,14 +31,18 @@
 }
 
 .logo_container {
-    margin-top: 7%;
+    margin-top: 8%;
     width: 100%;
     top: 10vh;
     text-align: center;
 }
 
+.logo {
+    width: 65%
+}
+
 .panel {
-    margin-top: 7%;
+    margin-top: 10%;
     width: 100%;
     top: 25vh;
     text-align: center;
@@ -59,4 +63,21 @@ h2 {
     line-height: 1.7;
     letter-spacing: normal;
     color: #bcbcbc;
+}
+
+.copyright h3 {
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    font-stretch: normal;
+    margin-top: 3.5%;
+    letter-spacing: normal;
+    color: #bcbcbc;
+}
+
+.druhin {
+    width: 15%;
+    margin-top: 1%;
+    margin-bottom: 1%
 }
