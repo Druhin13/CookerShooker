@@ -4,14 +4,12 @@
 }
 
 .bg {
-    height: 100vh;
-    width: 100%;
+    height: 100%;
     background-image: linear-gradient(#4D4C4C, #000000);
 }
 
 .nav {
     text-align: center;
-    position: absolute;
     top: 0;
     width: 100%;
     height: 5vh;
@@ -34,15 +32,13 @@
 
 
 .panel {
-    width: 100%;
-    position: absolute;
-    top: 20vh;
+    width: 100;
+    top: 25vh;
     text-align: center;
 }
 
-.logo_container{
+.logo_container {
     width: 100%;
-    position: absolute;
     top: 10vh;
     text-align: center;
 }
