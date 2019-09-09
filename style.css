@@ -9,6 +9,7 @@
 }
 
 .nav {
+    padding: 0;
     position: sticky;
     text-align: center;
     top: 0;
