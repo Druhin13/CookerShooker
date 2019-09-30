@@ -10,6 +10,7 @@
     background-image: linear-gradient(#4D4C4C, #000000);
 }
 
+/* Editing the styles of the navigation bar*/
 .nav {
     padding: 0;
     position: sticky;
