@@ -4,6 +4,7 @@
     padding: 0;
 }
 
+/* Setting the gradient color to the background, and making the height of it as automatic*/
 .bg {
     height: auto;
     background-image: linear-gradient(#4D4C4C, #000000);
