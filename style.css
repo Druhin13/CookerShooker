@@ -23,6 +23,7 @@
     box-shadow: 0 5px 20px 0 #00000029;
 }
 
+/* Setting the navigation elements hidden for mobile*/
 .nav ul {
     visibility: hidden;
 }
