@@ -31,6 +31,7 @@
     visibility: hidden;
 }
 
+/* Editing the styles of the menu(open/close) icons*/
 .open_menu {
     margin: 2vh;
 }
